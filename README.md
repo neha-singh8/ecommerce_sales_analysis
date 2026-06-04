@@ -13,9 +13,10 @@
 - Jupyter Notebook (analysis workflow)
 - Tableau (interactive dashboard creation)
 
-![Dashboard Screenshot](images/dashboard.png)
-<img width="1382" height="657" alt="image" src="https://github.com/user-attachments/assets/9cbcda2e-cda7-4d4c-9b03-9e2e72d7dece" />
+## Dashboard
+<img width="1367" height="653" alt="image" src="https://github.com/user-attachments/assets/ba29c32c-ace8-4687-87b5-9a175f98905a" />
 
+<img width="1382" height="657" alt="image" src="https://github.com/user-attachments/assets/9cbcda2e-cda7-4d4c-9b03-9e2e72d7dece" />
 
 ## Business Questions
 - Which product categories drive the highest revenue and profit, and how diversified is the portfolio?
