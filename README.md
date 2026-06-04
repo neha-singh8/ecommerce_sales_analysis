@@ -1,7 +1,7 @@
 ## Ecommerce Sales Analysis
 
 ## Project Overview
-- This project analyzes retail business performance across sales, profit, customers, products, and operations. It aims to identify key drivers of revenue and profitability, understand customer and regional behavior, and evaluate the impact of discounts, returns, and delivery on overall performance. The insights help improve decision-making in pricing, operations, and growth strategy.
+- This project analyzes retail business performance across sales, profit, customers, products and operations. It aims to identify key drivers of revenue and profitability, understand customer and regional behavior and evaluate the impact of discounts, returns and delivery on overall performance. The insights help improve decision-making in pricing, operations and growth strategy.
 
 ## Dataset Source
 - Source: Kaggle
@@ -49,7 +49,7 @@
 
 ## Recommendations (What companies can do)
 -	Grocery should be fixed or exited as grocery retail operate on very low margins (~1–3%) (McKinsey Retail Insights)
--	Blanket discounts should be reduced as they can lower profitability by 10–30% (Harvard Business Review)
+-	Blanket discounts should be reduced as they can lower profitability by 10-30% (Harvard Business Review)
 -	More investment should go into Home products, as they typically deliver 20–40% margins (Deloitte Consumer Report),
 -	Dependency on Electronics should be reduced due to high price volatility in the category (Statista E-commerce Reports)
 -	Retention should focus on 45+ customers who generally show higher AOV and loyalty (Nielsen Consumer Behavior Report)
